@@ -1,7 +1,3 @@
-public class TwoSum {
-    
-}
-
 class Solution {
     public int[] twoSum(int[] nums, int target) {
         HashMap<Integer, Integer> hashMap = new HashMap<Integer, Integer>();
