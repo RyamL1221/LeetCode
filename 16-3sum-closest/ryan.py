@@ -3,6 +3,7 @@
     Variation of Three-Sum
     Solution:
         Fix one element in the array, and run two pointer on the rest of the array and keep track of how close these sums are to the target
+    https://www.youtube.com/watch?v=uSpJQa6MRZ8
 """
 class Solution(object):
     def threeSumClosest(self, nums, target):
